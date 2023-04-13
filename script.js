@@ -1,0 +1,2 @@
+// untuk print
+window.print();
